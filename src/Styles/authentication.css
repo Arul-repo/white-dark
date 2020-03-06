@@ -1,0 +1,7 @@
+.authContainer{
+    background-color: #FFF;
+    border: 1px solid #FFF;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
